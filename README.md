@@ -1,7 +1,7 @@
 
 ---
 
-## 📌 Comparação entre DALL·E (Azure) e Microsoft Copilot usando o mesmo prompt: “Leão vestido de pijama”**
+## 📌 Comparação entre DALL·E (Azure) e Microsoft Copilot usando o mesmo prompt: “Leão vestido de pijama”
 
 ---
 
